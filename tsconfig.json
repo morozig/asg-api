@@ -1,0 +1,12 @@
+{
+    "files": [
+        "index.ts"
+    ],
+    "compilerOptions": {
+        "sourceMap": true,
+        "outDir": "build",
+        "lib": [
+            "es2017"
+        ]
+    }
+}
